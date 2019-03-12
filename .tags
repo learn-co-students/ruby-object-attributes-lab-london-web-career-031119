@@ -1,0 +1,16 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Ruby Object Attributes Lab	/Users/manon/Development/code/ruby-object-attributes-lab-london-web-career-031119/README.md	/^# Ruby Object Attributes Lab$/;"	function	line:1
+Objectives	/Users/manon/Development/code/ruby-object-attributes-lab-london-web-career-031119/README.md	/^## Objectives $/;"	function	line:3
+Overview	/Users/manon/Development/code/ruby-object-attributes-lab-london-web-career-031119/README.md	/^## Overview$/;"	function	line:9
+Instructions	/Users/manon/Development/code/ruby-object-attributes-lab-london-web-career-031119/README.md	/^## Instructions$/;"	function	line:13
+`Dog` and `lib/dog.rb`	/Users/manon/Development/code/ruby-object-attributes-lab-london-web-career-031119/README.md	/^## `Dog` and `lib\/dog.rb`$/;"	function	line:17
+Give a Dog a Name	/Users/manon/Development/code/ruby-object-attributes-lab-london-web-career-031119/README.md	/^### Give a Dog a Name$/;"	function	line:19
+Give a Dog a Breed	/Users/manon/Development/code/ruby-object-attributes-lab-london-web-career-031119/README.md	/^### Give a Dog a Breed$/;"	function	line:23
+`Person` and `lib/person.rb`	/Users/manon/Development/code/ruby-object-attributes-lab-london-web-career-031119/README.md	/^## `Person` and `lib\/person.rb`$/;"	function	line:27
+Give a Person a Name	/Users/manon/Development/code/ruby-object-attributes-lab-london-web-career-031119/README.md	/^### Give a Person a Name$/;"	function	line:29
+Give a Person a Job	/Users/manon/Development/code/ruby-object-attributes-lab-london-web-career-031119/README.md	/^### Give a Person a Job$/;"	function	line:33
